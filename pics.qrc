@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>bluetooth.png.png</file>
+        <file>slider2.png</file>
+        <file>tlo.png</file>
+        <file>slider-tlo.png</file>
+        <file>pushbutton.png</file>
+        <file>pushbutton2.png</file>
+        <file>back.png</file>
+        <file>back2.png</file>
+        <file>close.png</file>
+        <file>close2.png</file>
+        <file>red_light_off.png</file>
+        <file>red_light_on.png</file>
+        <file>white_light_off.png</file>
+        <file>white_light_on.png</file>
+    </qresource>
+</RCC>
